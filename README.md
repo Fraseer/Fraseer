@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fraseer&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fraseer&theme=tokyonight)
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=Fraseer&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Fraseer&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Fraseer&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fraseer&hide=php&theme=tokyonight" />
+</a>
+</div>
 
 <!--
 **Fraseer/Fraseer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
